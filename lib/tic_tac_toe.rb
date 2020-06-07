@@ -139,4 +139,4 @@ def play
 end
 
 end
-TicTacToe.new
+game.new
