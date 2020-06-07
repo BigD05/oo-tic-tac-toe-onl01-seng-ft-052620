@@ -2,6 +2,6 @@
 require 'pry'
 def initialize 
 @game = TicTacToe.new 
-return game
+return @game
 end 
 require_relative '../lib/tic_tac_toe.rb'
