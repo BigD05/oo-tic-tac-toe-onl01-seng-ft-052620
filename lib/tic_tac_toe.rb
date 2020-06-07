@@ -115,7 +115,7 @@ def full?
    end 
     end
     def over? 
-    if won? || full?
+    if won? || draw?
     return true
   end 
     end 
