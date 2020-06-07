@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 require 'pry'
 def initialize 
-TicTacToe.new 
+@game = TicTacToe.new 
 return game
 end 
 require_relative '../lib/tic_tac_toe.rb'
