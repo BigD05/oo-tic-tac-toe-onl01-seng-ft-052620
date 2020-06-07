@@ -137,6 +137,5 @@ def play
     puts "Cat's Game!"
   end
 end
-
+TicTacToe.new 
 end
-game.new
